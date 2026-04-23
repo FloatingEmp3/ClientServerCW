@@ -1,0 +1,14 @@
+com\mycompany\clientservercw\storage\DataStore.class
+com\mycompany\clientservercw\model\SensorReading.class
+com\mycompany\clientservercw\ClientServerCW.class
+com\mycompany\clientservercw\resource\RoomResource.class
+com\mycompany\clientservercw\exceptions\RoomNotEmptyExceptionMapper.class
+com\mycompany\clientservercw\exceptions\LinkedResourceNotFoundException.class
+com\mycompany\clientservercw\model\Room.class
+com\mycompany\clientservercw\config\ApiApplication.class
+com\mycompany\clientservercw\exceptions\RoomNotEmptyException.class
+com\mycompany\clientservercw\resource\SensorReadingResource.class
+com\mycompany\clientservercw\exceptions\LinkedResourceNotFoundExceptionMapper.class
+com\mycompany\clientservercw\model\Sensor.class
+com\mycompany\clientservercw\resource\SensorResource.class
+com\mycompany\clientservercw\resource\DiscoveryResource.class

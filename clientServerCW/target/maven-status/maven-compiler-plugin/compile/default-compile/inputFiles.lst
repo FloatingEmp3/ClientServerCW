@@ -1,0 +1,12 @@
+C:\Users\eduar\OneDrive\Documents\NetBeansProjects\clientServerCW\src\main\java\com\mycompany\clientservercw\config\ApiApplication.java
+C:\Users\eduar\OneDrive\Documents\NetBeansProjects\clientServerCW\src\main\java\com\mycompany\clientservercw\model\SensorReading.java
+C:\Users\eduar\OneDrive\Documents\NetBeansProjects\clientServerCW\src\main\java\com\mycompany\clientservercw\ClientServerCW.java
+C:\Users\eduar\OneDrive\Documents\NetBeansProjects\clientServerCW\src\main\java\com\mycompany\clientservercw\resource\RoomResource.java
+C:\Users\eduar\OneDrive\Documents\NetBeansProjects\clientServerCW\src\main\java\com\mycompany\clientservercw\model\Room.java
+C:\Users\eduar\OneDrive\Documents\NetBeansProjects\clientServerCW\src\main\java\com\mycompany\clientservercw\resource\DiscoveryResource.java
+C:\Users\eduar\OneDrive\Documents\NetBeansProjects\clientServerCW\src\main\java\com\mycompany\clientservercw\resource\SensorResource.java
+C:\Users\eduar\OneDrive\Documents\NetBeansProjects\clientServerCW\src\main\java\com\mycompany\clientservercw\model\Sensor.java
+C:\Users\eduar\OneDrive\Documents\NetBeansProjects\clientServerCW\src\main\java\com\mycompany\clientservercw\storage\DataStore.java
+C:\Users\eduar\OneDrive\Documents\NetBeansProjects\clientServerCW\src\main\java\com\mycompany\clientservercw\exceptions\RoomNotEmptyException.java
+C:\Users\eduar\OneDrive\Documents\NetBeansProjects\clientServerCW\src\main\java\com\mycompany\clientservercw\exceptions\RoomNotEmptyExceptionMapper.java
+C:\Users\eduar\OneDrive\Documents\NetBeansProjects\clientServerCW\src\main\java\com\mycompany\clientservercw\resource\SensorReadingResource.java
